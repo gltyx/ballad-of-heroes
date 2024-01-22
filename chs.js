@@ -1837,7 +1837,7 @@ var cnItems = {
     "These gods give characters 20% additional primary stats when equipped, receive 20% extra XP, and gain 20% additional Chthonic Power when reset.": "这些神在装备时为角色提供 20% 的额外主要统计数据，获得 20% 的额外 XP，并在重置时获得 20% 的额外地狱力量。",
     "Verbose Mode": "详细模式",
     "Zodiac:": "十二生肖：",
-    "": "",
+    "Click to toggle between 1x and 2x game speed.": "点击可在 1 倍和 2 倍游戏速度之间切换。",
     "": "",
     "": "",
     "": "",
